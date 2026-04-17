@@ -4,11 +4,11 @@
     "movies": 3,
     "series": 4
   },
-  "generated_at": "2026-04-17T11:25:08.351183524Z",
+  "generated_at": "2026-04-17T12:25:46.490456521Z",
   "encrypted": true,
   "cipher": "aes-256-gcm",
   "channels": { "hash": "764be1a7a17b46d51bc6c1f377b0e4b8510408bb7de0bd688455a493a00c5a8f", "size": 2041620, "count": 6924 },
-  "movies": { "hash": "b3e3081f41fa31ec943942bbe8bcdfc6ff6caa610b00860ad89da26ae9a35f33", "size": 18446624, "count": 30877 },
-  "series": { "hash": "cfde97ef6290e718f8aec579334b8d2c8eed72fe7758f2a8be94fe93cd67ba62", "size": 29613696, "count": 4850 },
+  "movies": { "hash": "0f2f27d70b308f1f61f4222ee15f61908bf34f57138fdd63435f11002a0a003b", "size": 18446624, "count": 30877 },
+  "series": { "hash": "75c0d5062cc8f246c0b277f1631561ffc3c50c8503e8061878600bf603646d4c", "size": 29613696, "count": 4850 },
   "source_url_hash": "b43c58116c0004bdb47a278d2e01b3c11c6481f10dc794eeb627a44fa7416ccd"
 }
