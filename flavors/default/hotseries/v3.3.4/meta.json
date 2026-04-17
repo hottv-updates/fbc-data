@@ -4,9 +4,9 @@
     "movies": 3,
     "series": 4
   },
-  "generated_at": "2026-04-16T19:28:54.159661901Z",
-  "encrypted": false,
-  "cipher": null,
+  "generated_at": "2026-04-17T10:33:32.749405042Z",
+  "encrypted": true,
+  "cipher": "aes-256-gcm",
   "channels": null,
   "movies": null,
   "series": { "hash": "d84d5e8f191ae20e4748a1d194fdbb8e40fad46c9e64c5111ae1b5a0691375df", "size": 29743208, "count": 4383 },
