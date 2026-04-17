@@ -4,7 +4,7 @@
     "movies": 3,
     "series": 4
   },
-  "generated_at": "2026-04-16T14:03:57.574151673Z",
+  "generated_at": "2026-04-17T10:33:11.151750256Z",
   "encrypted": true,
   "cipher": "aes-256-gcm",
   "channels": null,
