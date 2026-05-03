@@ -1,0 +1,14 @@
+{
+  "fb_versions": {
+    "channels": 3,
+    "movies": 3,
+    "series": 4
+  },
+  "generated_at": "2026-05-06T15:34:45.830084485Z",
+  "encrypted": true,
+  "cipher": "aes-256-gcm",
+  "channels": { "hash": "3456d34ad842eaec27bdf40a286e2c428c20907d02310c1b4378cc43b67b6483", "size": 3887832, "count": 6924 },
+  "movies": { "hash": "951e256f6e13b85909c329281e91a6f5b5667ff922789f17cafcca34317c4c63", "size": 32092224, "count": 30934 },
+  "series": { "hash": "cfb70017fa50bb9caef89f94d0bac73ff13d87eb2cd07646a062de1b55d15f5d", "size": 57066560, "count": 4855 },
+  "source_url_hash": "b43c58116c0004bdb47a278d2e01b3c11c6481f10dc794eeb627a44fa7416ccd"
+}
