@@ -1,0 +1,14 @@
+{
+  "fb_versions": {
+    "channels": 4,
+    "movies": 4,
+    "series": 5
+  },
+  "generated_at": "2026-09-18T13:52:15.520201328Z",
+  "encrypted": true,
+  "cipher": "aes-256-gcm",
+  "channels": null,
+  "movies": null,
+  "series": { "hash": "c2ec5cbfab2c20230a3a960b9438f60c38801f452338a5f94c065d689e607dd3", "size": 30136552, "count": 4435 },
+  "source_url_hash": "1c78e1a2db9b9731c25f9bdf6df5431c02e577ebed8c92652a6d2ba374befa2d"
+}
