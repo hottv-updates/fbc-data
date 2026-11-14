@@ -4,10 +4,10 @@
     "movies": 4,
     "series": 5
   },
-  "generated_at": "2026-11-14T06:16:00.346876120Z",
+  "generated_at": "2026-11-14T06:26:03.764848839Z",
   "encrypted": true,
   "cipher": "aes-256-gcm",
-  "channels": { "hash": "3ac246242391387de8ff020850732c3448d0f672e186b8424f41d5f2216d96aa", "size": 40283752, "count": 2035 },
+  "channels": { "hash": "9f55fd3bb1c14fc0f6ec21d794cdcc26319c892e34958c2a03f975b055ccde15", "size": 40283040, "count": 2035 },
   "movies": null,
   "series": null,
   "source_url_hash": "88c3082538479f311fce43f05631af71f6b4b015187eaf164364e228cd8264aa"
