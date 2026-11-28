@@ -4,7 +4,7 @@
     "movies": 4,
     "series": 5
   },
-  "generated_at": "2026-11-27T17:11:33.325446429Z",
+  "generated_at": "2026-11-28T18:11:33.272020471Z",
   "encrypted": true,
   "cipher": "aes-256-gcm",
   "channels": { "hash": "f0598cefadc7b0e67b36d16652b5480d8a007d25552f1ee3b3dfbec19ed44595", "size": 872, "count": 1 },
